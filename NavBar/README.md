@@ -7,7 +7,7 @@ The project is created with React using the hook useRef, useEffect, useState. It
 [React icons](https://react-icons.github.io/react-icons/)
 
 ![Navbar](https://github.com/barcelo2/NavBar-React/blob/main/NavBar/src/screenshot1.png "Navbar with react")
-![Navbar mobile version](https://github.com/barcelo2/Meme-Generator/blob/main/memegenerator/public/Screenshot1.png "Navbar with react")
+![Navbar mobile version](https://github.com/barcelo2/NavBar-React/blob/main/NavBar/src/screenshot2.png "Navbar with react")
 
 
 ## Available Commands
